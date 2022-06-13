@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap");
+
+.btn-bd-primary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-border-radius: 10rem;
+}
+
+.title-banner,
+.text-slogan,
+.title-about,
+.title-download {
+  font-family: "Charis SIL", serif !important;
+  font-weight: bold;
+}
+
+.gradient {
+  background-image: linear-gradient(60deg, #2b37f0, #6f26e8, #9e1ae2);
+}
